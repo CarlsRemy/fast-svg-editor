@@ -1,0 +1,17 @@
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\bin\Debug\FastSVGEditor.exe.config
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\bin\Debug\FastSVGEditor.exe
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\bin\Debug\FastSVGEditor.pdb
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\obj\Debug\FastSVGEditor.csprojResolveAssemblyReference.cache
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\obj\Debug\FastSVGEditor.MainForm.resources
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\obj\Debug\FastSVGEditor.Properties.Resources.resources
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\obj\Debug\FastSVGEditor.csproj.GenerateResource.Cache
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\obj\Debug\FastSVGEditor.exe
+c:\users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\obj\Debug\FastSVGEditor.pdb
+C:\Users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\bin\Debug\Svg.dll
+C:\Users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\bin\Debug\Ookii.Dialogs.dll
+C:\Users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\bin\Debug\Ookii.Dialogs.xml
+C:\Users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\bin\Debug\OpenPainter.ColorPicker.dll
+C:\Users\ramtin\documents\visual studio 2013\Projects\FastSVGEditor\FastSVGEditor\obj\Debug\FastSVGEditor.LogWindow.resources
+C:\Users\ramtin\fast-svg-editor\FastSVGEditor\bin\Debug\FastSVGEditor.exe.config
+C:\Users\ramtin\fast-svg-editor\FastSVGEditor\obj\Debug\FastSVGEditor.exe
+C:\Users\ramtin\fast-svg-editor\FastSVGEditor\obj\Debug\FastSVGEditor.pdb
